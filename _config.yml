@@ -1,0 +1,11 @@
+# basic options
+title: CSE1017 프로그래밍기초
+author: 도경구
+email: doh@hanyang.ac.kr
+description: 한양대학교 소프트웨어융합대학 1학년 기초필수 프로그래밍기초
+twitter_username:
+github_username: cse1017
+
+# Build settings
+markdown: kramdown
+theme: minima
