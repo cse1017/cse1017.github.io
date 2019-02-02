@@ -8,4 +8,4 @@ github_username: cse1017
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
