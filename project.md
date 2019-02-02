@@ -1,5 +1,4 @@
 ---
 layout: page
-title: 팀프로젝트
+title: 프로젝트
 ---
-
