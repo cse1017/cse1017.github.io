@@ -1,12 +1,10 @@
-![스크린샷 2019-02-02 오후 2.18.48](https://i.imgur.com/w5Accuf.png)
-
 [Python 공식 사이트](https://www.python.org/)
 
 
 2019년 1학기
 
 #### 교실
-- 
+-
 -
 -
 -
